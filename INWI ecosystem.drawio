@@ -10,7 +10,7 @@
         <mxCell id="pSDOMpD7tGjld8eJhOIt-2" value="User_ID&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pSDOMpD7tGjld8eJhOIt-1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pSDOMpD7tGjld8eJhOIt-3" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="pSDOMpD7tGjld8eJhOIt-1">
+        <mxCell id="pSDOMpD7tGjld8eJhOIt-3" value="Full Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="pSDOMpD7tGjld8eJhOIt-1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pSDOMpD7tGjld8eJhOIt-4" value="Password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pSDOMpD7tGjld8eJhOIt-1">
@@ -31,7 +31,7 @@
         <mxCell id="pSDOMpD7tGjld8eJhOIt-28" value="Unified Users DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="110" width="120" height="181.25" as="geometry" />
         </mxCell>
-        <mxCell id="pSDOMpD7tGjld8eJhOIt-36" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pSDOMpD7tGjld8eJhOIt-36" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pSDOMpD7tGjld8eJhOIt-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pSDOMpD7tGjld8eJhOIt-24">
