@@ -61,6 +61,27 @@
             <mxPoint x="560" y="497.77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-15" value="Page ADSL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-16" value="Check eligible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-17" value="Info Perso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-18" value="Mode livraison" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-19" value="Valid recap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-20" value="Mode Paiement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8AWCzpdBR2Rdcii8BcfA-21" value="Successful order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
