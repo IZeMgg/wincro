@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="g4uEJwVApC-8BKiMDtJV">
-    <mxGraphModel dx="1154" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zcal4szhA9THlN3-I1z9-2" value="&lt;span style=&quot;line-height: 107%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;Disponibilité&lt;br/&gt;du système&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zcal4szhA9THlN3-I1z9-2" value="&lt;span style=&quot;line-height: 107%; font-family: Aptos, sans-serif;&quot;&gt;&lt;font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Disponibilité&lt;br&gt;du système&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcal4szhA9THlN3-I1z9-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcal4szhA9THlN3-I1z9-5" target="zcal4szhA9THlN3-I1z9-8">
@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zcal4szhA9THlN3-I1z9-5" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Réalisation&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zcal4szhA9THlN3-I1z9-5" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Réalisation&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcal4szhA9THlN3-I1z9-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.102;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zcal4szhA9THlN3-I1z9-6" target="zcal4szhA9THlN3-I1z9-8">
@@ -69,7 +69,7 @@
         <mxCell id="zcal4szhA9THlN3-I1z9-7" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;la qualité du service électronique&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zcal4szhA9THlN3-I1z9-8" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font&gt;l&#39;intention d&#39;achat&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zcal4szhA9THlN3-I1z9-8" value="&lt;span style=&quot;line-height: 107%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;l&#39;intention d&#39;achat&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcal4szhA9THlN3-I1z9-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="zcal4szhA9THlN3-I1z9-7" target="zcal4szhA9THlN3-I1z9-2">
